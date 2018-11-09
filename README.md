@@ -1,4 +1,4 @@
-# WordTeacher[프로그램명] word teacher
+# WordTeacher
 
 [목적] 퀴즈와 게임을 통해 재미있게 영어 단어를 외울 수 있다.
 
